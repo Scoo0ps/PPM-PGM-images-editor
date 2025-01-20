@@ -1,0 +1,8 @@
+-- Instructions pour lancer le programme --
+
+Dans le répertoire de l'éxécutable, lancez la commande `./projet Lenna_gray.pgm Lenna_color.ppm` ou `./projet Lenna_color.ppm Lenna_gray.pgm`.
+L'écriture des images se fera automatiquement et elles seront stockées dans le répertoire courant.
+
+
+
+Merci pour la correction
